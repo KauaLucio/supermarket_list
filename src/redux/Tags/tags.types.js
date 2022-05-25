@@ -1,0 +1,2 @@
+export const ADD_ONE_ON_TAG = 'ADD_ONE_ON_TAG'
+export const REMOVE_ONE_ON_TAG = 'REMOVE_ONE_ON_TAG'
